@@ -17,7 +17,7 @@ session_start();
                         <li>
                         <?php
                         if(isset($_SESSION['user'])){
-                    echo $_SESSION['user']; echo ' <a href="logout.php">Logout</a> ';
+                    echo 'Welcome '; echo $_SESSION['user']; echo ' <a href="logout.php">Logout</a> ';
                 }else{
                     echo 'You are not logged in.';
                 }

@@ -8,6 +8,6 @@ $dbpass = '';
 
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass) or die($dberror1);
 
-$select_db = mysqli_select_db($conn, "mega_man_x_vault") or die($dberror2);
+$select_db = mysqli_select_db($conn, "garfy") or die($dberror2);
 
 ?>
