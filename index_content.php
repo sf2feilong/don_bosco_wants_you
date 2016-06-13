@@ -4,7 +4,7 @@
 	echo '
 		Welcome to the Don Bosco Technical College Announcements Website website!!!<br>
 		Inside you will find announcements and memos for each department in the college.<br>
-		This is a work in progress. Sit back, relax and enjoy the announcements ^_^; <br>
+		This website is a work in progress.<br>
 		<br>
 		<p>
 		Updates:
